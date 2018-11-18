@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rita Roy MD\\source\\repos\\TicTackToe\\TicTackToe\\TicTackToe.csproj",
+      "projectUniqueName": "C:\\Users\\Rita Roy MD\\c_sharp_experimental\\TicTackToe\\TicTackToe\\TicTackToe.csproj",
       "projectName": "TicTackToe",
-      "projectPath": "C:\\Users\\Rita Roy MD\\source\\repos\\TicTackToe\\TicTackToe\\TicTackToe.csproj",
+      "projectPath": "C:\\Users\\Rita Roy MD\\c_sharp_experimental\\TicTackToe\\TicTackToe\\TicTackToe.csproj",
       "packagesPath": "C:\\Users\\Rita Roy MD\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rita Roy MD\\source\\repos\\TicTackToe\\TicTackToe\\obj\\",
+      "outputPath": "C:\\Users\\Rita Roy MD\\c_sharp_experimental\\TicTackToe\\TicTackToe\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
